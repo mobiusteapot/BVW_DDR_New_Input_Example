@@ -103,7 +103,7 @@
                     "path": "<HID::USB Gamepad >/button3",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Up",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -114,7 +114,18 @@
                     "path": "<Keyboard>/upArrow",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ef9ea253-139e-4214-9fb3-3a0bc0a1878f",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "Up",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -125,7 +136,7 @@
                     "path": "<HID::USB Gamepad >/button2",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Down",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -136,7 +147,18 @@
                     "path": "<Keyboard>/downArrow",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bb70216e-f7b6-4d7b-8fa5-2924e51e5829",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "Down",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -147,7 +169,7 @@
                     "path": "<HID::USB Gamepad >/trigger",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Left",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -158,7 +180,18 @@
                     "path": "<Keyboard>/leftArrow",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b24d56a5-00f8-49e0-b86c-ffb87fbe9620",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "Left",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -169,7 +202,7 @@
                     "path": "<HID::USB Gamepad >/button4",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Right",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -180,7 +213,18 @@
                     "path": "<Keyboard>/rightArrow",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1eff332f-d9c3-432d-acce-450f066feaf3",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "Right",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -191,7 +235,7 @@
                     "path": "<HID::USB Gamepad >/button7",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "X",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -202,7 +246,7 @@
                     "path": "<Keyboard>/q",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "X",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -213,7 +257,7 @@
                     "path": "<HID::USB Gamepad >/button8",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "O",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -224,7 +268,7 @@
                     "path": "<Keyboard>/e",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "O",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -235,7 +279,7 @@
                     "path": "<HID::USB Gamepad >/button5",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Triangle",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -246,7 +290,7 @@
                     "path": "<Keyboard>/z",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Triangle",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -257,7 +301,7 @@
                     "path": "<HID::USB Gamepad >/button6",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Square",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -268,7 +312,7 @@
                     "path": "<Keyboard>/x",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Square",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -279,7 +323,7 @@
                     "path": "<HID::USB Gamepad >/button9",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Select",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -290,7 +334,7 @@
                     "path": "<Keyboard>/o",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Select",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -301,7 +345,7 @@
                     "path": "<HID::USB Gamepad >/button10",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Start",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -312,7 +356,7 @@
                     "path": "<Keyboard>/p",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Default DDR Control Scheme",
+                    "groups": "",
                     "action": "Start",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -320,11 +364,5 @@
             ]
         }
     ],
-    "controlSchemes": [
-        {
-            "name": "Default DDR Control Scheme",
-            "bindingGroup": "Default DDR Control Scheme",
-            "devices": []
-        }
-    ]
+    "controlSchemes": []
 }
