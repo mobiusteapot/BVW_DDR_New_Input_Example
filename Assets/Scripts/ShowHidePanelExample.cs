@@ -14,6 +14,6 @@ public class ShowHidePanelExample : MonoBehaviour
     // https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/api/UnityEngine.InputSystem.InputAction.CallbackContext.html
     public void DebugPrintCallback(InputAction.CallbackContext context)
     {
-        Debug.Log($"Action triggered: {context.action.name}");
+        Debug.Log($"Action triggered: {context.action.name}" + " via Unity Event on Player Component");
     }
 }

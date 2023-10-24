@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: ReceivingInputUnityEvents
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  title: 
+  sections:
+  - heading: Player Component
+    text: The Player Component needs a reference to an Input asset (like the one
+      we have in our root folder). From there, it can recieve events either via C#
+      Events, or Unity Events.
+    linkText: 
+    url: 
+  - heading: Unity Event Input
+    text: Like setting up input for UI on a canvas, the Unity Event set up can activate
+      a function or method on any script. Expand the "Events" section of the above
+      component and scroll down to the input intended for the O button on the DDR
+      pad (or the E button when emulated with a keyboard). New events can be assigned
+      here, and events can even recieve a callback context from what device has given
+      input. Check the referenced script for an example.
+    linkText: Unity Event Callback Context
+    url: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/api/UnityEngine.InputSystem.InputAction.CallbackContext.html
+  - heading: 
+    text: 
+    linkText: Player Input Component Docs
+    url: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.5/manual/PlayerInput.html
+  - heading: 
+    text: 
+    linkText: Unity Events Docs
+    url: https://docs.unity3d.com/Manual/UnityEvents.html
+  loadedLayout: 0

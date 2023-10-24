@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: ReceivingInputCSharp
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  title: 
+  sections:
+  - heading: Player Component
+    text: The Player Component needs a reference to an Input asset (like the one
+      we have in our root folder). From there, it can recieve events either via C#
+      Events, or Unity Events.
+    linkText: 
+    url: 
+  - heading: C# Event Input
+    text: Unlike the Unity Event system, the C# event system requires the script
+      to get a reference to the relevant player component, where the event can be
+      subscribed to. General input can be detected, or specific input can be read.
+      Check the script on ButtonDebugManager for an example
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: Player Input Component Docs
+    url: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.5/manual/PlayerInput.html
+  - heading: 
+    text: 
+    linkText: Unity Events Docs
+    url: https://docs.unity3d.com/Manual/UnityEvents.html
+  - heading: 
+    text: 
+    linkText: Input Manager Actions
+    url: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.5/manual/Actions.html
+  loadedLayout: 0
